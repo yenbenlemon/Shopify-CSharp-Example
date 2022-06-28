@@ -11,8 +11,8 @@ This API will create a webpage using the Shopify API, connected via ShopifySharp
 
 Once the service is running, users will be able to make Shopify Accounts and subscribe to test services with test credit cards. The webpage can also display a database of orders, but the database must be filled in before hand, manually via SQL or through the Shopify service on their website. Again, this is just for testing services. 
 
-/Assets/Images/ex1.png
-/Assets/Images/ex2.png
-/Assets/Images/ex3.png
-/Assets/Images/ex4.png
-/Assets/Images/ex5.png
+![This is an image](/Assets/Images/ex1.png)
+![This is an image](/Assets/Images/ex2.png)
+![This is an image](/Assets/Images/ex3.png)
+![This is an image](/Assets/Images/ex4.png)
+![This is an image](/Assets/Images/ex5.png)
