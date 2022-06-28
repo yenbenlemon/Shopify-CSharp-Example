@@ -1,0 +1,99 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Shopify-Projects\\ShopifyAppKyle\\ShopifyAppKyle.csproj": {}
+  },
+  "projects": {
+    "F:\\Shopify-Projects\\ShopifyAppKyle\\ShopifyAppKyle.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Shopify-Projects\\ShopifyAppKyle\\ShopifyAppKyle.csproj",
+        "projectName": "ShopifyAppKyle",
+        "projectPath": "F:\\Shopify-Projects\\ShopifyAppKyle\\ShopifyAppKyle.csproj",
+        "packagesPath": "C:\\Users\\kyleg\\.nuget\\packages\\",
+        "outputPath": "F:\\Shopify-Projects\\ShopifyAppKyle\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kyleg\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "LazyCache": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Microsoft.CodeAnalysis.Compilers": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Microsoft.CodeDom.Providers.DotNetCompilerPlatform": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.Net.Compilers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "ShopifySharp": {
+              "target": "Package",
+              "version": "[5.15.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.1.419\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
