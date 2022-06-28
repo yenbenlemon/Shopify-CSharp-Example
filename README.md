@@ -10,3 +10,9 @@ This project has been uploaded so i can easily show off the source code. I'm not
 This API will create a webpage using the Shopify API, connected via ShopifySharp, which has a useful instruction manual that you have to buy. The main issue with said instruction manual is that it is both outdated and incomplete, meanign several features and explanations were incorrect when attempting to debug various issues. 
 
 Once the service is running, users will be able to make Shopify Accounts and subscribe to test services with test credit cards. The webpage can also display a database of orders, but the database must be filled in before hand, manually via SQL or through the Shopify service on their website. Again, this is just for testing services. 
+
+/Assets/Images/ex1.png
+/Assets/Images/ex2.png
+/Assets/Images/ex3.png
+/Assets/Images/ex4.png
+/Assets/Images/ex5.png
